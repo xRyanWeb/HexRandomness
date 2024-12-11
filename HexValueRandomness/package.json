@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@types/node": "^22.10.2",
+    "@types/readline-sync": "^1.4.8",
+    "readline-sync": "^1.4.10"
+  },
+  "type": "commonjs",
+  "name": "day-2",
+  "version": "1.0.0",
+  "main": "Main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
